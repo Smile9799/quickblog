@@ -1,0 +1,9 @@
+C:\Personal Projects\QuickBlog\QuickBlog.Service\bin\Debug\netcoreapp3.1\QuickBlog.Service.deps.json
+C:\Personal Projects\QuickBlog\QuickBlog.Service\bin\Debug\netcoreapp3.1\QuickBlog.Service.dll
+C:\Personal Projects\QuickBlog\QuickBlog.Service\bin\Debug\netcoreapp3.1\QuickBlog.Service.pdb
+C:\Personal Projects\QuickBlog\QuickBlog.Service\obj\Debug\netcoreapp3.1\QuickBlog.Service.csprojAssemblyReference.cache
+C:\Personal Projects\QuickBlog\QuickBlog.Service\obj\Debug\netcoreapp3.1\QuickBlog.Service.AssemblyInfoInputs.cache
+C:\Personal Projects\QuickBlog\QuickBlog.Service\obj\Debug\netcoreapp3.1\QuickBlog.Service.AssemblyInfo.cs
+C:\Personal Projects\QuickBlog\QuickBlog.Service\obj\Debug\netcoreapp3.1\QuickBlog.Service.csproj.CoreCompileInputs.cache
+C:\Personal Projects\QuickBlog\QuickBlog.Service\obj\Debug\netcoreapp3.1\QuickBlog.Service.dll
+C:\Personal Projects\QuickBlog\QuickBlog.Service\obj\Debug\netcoreapp3.1\QuickBlog.Service.pdb
